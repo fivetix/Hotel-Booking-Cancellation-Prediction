@@ -64,9 +64,12 @@ Using SMOTE to balance the dataset, ensuring the model does not favor one class 
 ### Modeling
 
 Several machine learning models are trained and evaluated, including:
-- Logistic Regression
+- Decision Tree
 - Random Forest
-- XGBoost
+- Gaussian Naive Bayes
+- Support Vector Machine (SVM)
+- Gradient Boosting
+- AdaBoost
 
 ### Model Evaluation
 
